@@ -1,11 +1,17 @@
 === Magix Dropdown - WordPress Ajax Dropdown plugin ===
 
 Author: Harshal
+
 Tags: ajax,dropdown,wordpress ajax dropdown
+
 Requires at least: 4.0
+
 Tested up to: 4.9
+
 Requires PHP: 5.6
+
 Stable tag: 2.3.16
+
 License: GPLv3
 
 == Description ==
